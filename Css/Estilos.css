@@ -52,3 +52,11 @@ body
     background: cadetblue;
     padding: 1em;
 }
+
+#footer
+{
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 00.5em;
+}
