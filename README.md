@@ -8,6 +8,7 @@ ESTE BLOG ES DISEÑADO PARA PODER ENTENDER COMO USAR UN REPOSITORIO DE GITHUB.
 
 * Creado por Laura 
 * Incluye ejemplos de HTML
+* Disponible para todos
 
 ##### Recordatorio: Este repositorio lo hice yo sola y agradezco a mi amorcito por darme los cursos ya que siempre se preocupo de que aprendiera bien <3. C
 
